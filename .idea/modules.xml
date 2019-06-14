@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppModuleDemo.iml" filepath="$PROJECT_DIR$/AppModuleDemo.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo-master\AppModuleDemo.iml" filepath="E:\demo\AppModuleDemo-master\AppModuleDemo.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo\jxsw_app\app.iml" filepath="E:\demo\AppModuleDemo\jxsw_app\app.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo\jxsw_base\baselibrary.iml" filepath="E:\demo\AppModuleDemo\jxsw_base\baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxsw_app/jxsw_app.iml" filepath="$PROJECT_DIR$/jxsw_app/jxsw_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxsw_base/jxsw_base.iml" filepath="$PROJECT_DIR$/jxsw_base/jxsw_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxsw_home/jxsw_home.iml" filepath="$PROJECT_DIR$/jxsw_home/jxsw_home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxsw_main/jxsw_main.iml" filepath="$PROJECT_DIR$/jxsw_main/jxsw_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxsw_mine/jxsw_mine.iml" filepath="$PROJECT_DIR$/jxsw_mine/jxsw_mine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxsw_route/jxsw_route.iml" filepath="$PROJECT_DIR$/jxsw_route/jxsw_route.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxsw_video/jxsw_video.iml" filepath="$PROJECT_DIR$/jxsw_video/jxsw_video.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo\jxsw_home\module_home.iml" filepath="E:\demo\AppModuleDemo\jxsw_home\module_home.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo\jxsw_main\module_main.iml" filepath="E:\demo\AppModuleDemo\jxsw_main\module_main.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo\jxsw_mine\module_mine.iml" filepath="E:\demo\AppModuleDemo\jxsw_mine\module_mine.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo\jxsw_route\module_route.iml" filepath="E:\demo\AppModuleDemo\jxsw_route\module_route.iml" />
+      <module fileurl="file://E:\demo\AppModuleDemo\jxsw_video\module_video.iml" filepath="E:\demo\AppModuleDemo\jxsw_video\module_video.iml" />
+    </modules>
+  </component>
+</project>

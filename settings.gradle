@@ -1,0 +1,1 @@
+include ':jxsw_app', ':jxsw_base', ':jxsw_main', ':jxsw_mine', ':jxsw_home', ':jxsw_video', ':jxsw_route'
